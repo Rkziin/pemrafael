@@ -3,7 +3,9 @@
 Meu nome é Rafael Krasowski🥇👽
 
 -Estou estudando na alura;
--Estouapredendo javaScript, Html e CSS
--Utiizo esse espaço para compartilhar meus projetos
+-Estou apredendo javaScript, Html e CSS
+-Utilizo esse espaço para compartilhar meus projetos
 
 voce pode entrar em contato comigo📭
+
+krasowki.cruz@escola.pr.gov.br
